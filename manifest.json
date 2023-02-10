@@ -1,0 +1,11 @@
+{
+    "name": "Jokes For You",
+    "version": "1.0.0",
+    "description": "Random Chuck Norris Jokes",
+    "manifest_version": 3,
+    "author": "Joe Mama",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "J0kes"
+    }
+}
